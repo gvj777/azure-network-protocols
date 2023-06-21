@@ -22,7 +22,7 @@ In this tutorial, we observe resource groups in Azure and entering Azure Virtual
 <h2>High-Level Steps</h2>
 
 - Step 1
-- Step 2
+- Step 2 
 - Step 3
 - Step 4
 
@@ -40,6 +40,6 @@ In Microsoft Azure I created a resource group called osTicket. Within this resou
 <img src="https://i.imgur.com/ZYuJ9iL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Once tapped into the osTicket virtual machince, I am able to see all properties, as well as networking configurations such as the public and private IP address. This virtual machine is operating using Windows 10.
 </p>
 <br />
