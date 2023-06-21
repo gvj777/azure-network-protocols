@@ -21,10 +21,10 @@ In this tutorial, we observe resource groups in Azure and entering Azure Virtual
 
 <h2>High-Level Steps</h2>
 
-- Step 1
-- Step 2 
-- Step 3
-- Step 4
+- Create Resource Group
+- Create Windows 10 Virtual Machine
+- Use Remote Desktop to connect to Windows 10 Virtual Machine
+- Observe Virtual Network within Network Watcher
 
 <h2>Actions and Observations</h2>
 
